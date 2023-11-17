@@ -11,3 +11,7 @@
 ## 2 - Golden Search
 ## Output:
 ![Golden Search Plot](./img/Golden%20Search/goldensearch.png)
+
+## 3 - Gradient Descent
+## Output:
+![Gradient Descent Plot](./img/Gradient%20Descent/gd.png)
