@@ -15,3 +15,8 @@
 ## 3 - Gradient Descent
 ## Output:
 ![Gradient Descent Plot](./img/Gradient%20Descent/gd.png)
+
+## 4 - RMSProp
+## Output:
+![RMSProp Plot](./img/RMSProp/rms.png)
+![RMSProp Plot2](./img/RMSProp/rms2.png)
