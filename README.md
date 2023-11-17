@@ -1,4 +1,4 @@
-# Algorithm for optimization practical assignments
+# Algorithm for optimization practicals
 
 ## 1 - Rectangular Contour Plot
 ## Output:
