@@ -24,3 +24,7 @@
 ## 5 - Ant Calony Optimizer
 ## Output:
 ![Ant Calony Optimizer Plot](./img/Ant%20Calony%20Optimizer/antcalony.png)
+
+## 6 - Gaussian Process
+![Gaussian Process Plot](./img/Gaussian%20Process/gp.png)
+![Gaussian Process Plot2](./img/Gaussian%20Process/gp2.png)
