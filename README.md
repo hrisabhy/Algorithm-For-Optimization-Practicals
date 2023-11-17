@@ -30,6 +30,6 @@
 ![Gaussian Process Plot](./img/Gaussian%20Process/gp.png)
 ![Gaussian Process Plot2](./img/Gaussian%20Process/gp2.png)
 
-# 7 - Adagrad Optimizer
+## 7 - Adagrad Optimizer
 ## Output:
 ![Adagrad Plot](./img/Adagrad/adagrad.png)
