@@ -7,3 +7,7 @@
 ![Polar Contour Plot](./img/Rectangular%20Contour%20Plot/polar.png)
 ### 1.2 - Ternary
 ![Ternary Plot](./img/Rectangular%20Contour%20Plot/ternary.png)
+
+## 2 - Golden Search
+## Output:
+![Golden Search Plot](./img/Golden%20Search/goldensearch.png)
